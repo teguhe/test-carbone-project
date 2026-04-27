@@ -1,0 +1,10 @@
+{
+  "nama": "Budi Santoso",
+  "tanggal_lahir": "1 Januari 1990",
+  "kota": "Salatiga",
+  "produk": [
+    { "no": 1, "nama": "Laptop", "harga": "Rp 12.000.000" },
+    { "no": 2, "nama": "Mouse",  "harga": "Rp 250.000" },
+    { "no": 3, "nama": "Keyboard", "harga": "Rp 500.000" }
+  ]
+}
